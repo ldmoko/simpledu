@@ -111,3 +111,4 @@ migrations/
 # vscode
 .vscode
 
+.DS*
